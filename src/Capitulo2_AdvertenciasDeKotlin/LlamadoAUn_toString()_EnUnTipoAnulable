@@ -1,0 +1,11 @@
+Por ejemplo, desea obtener texto de un EditText en Android.
+
+Tendrías un trozo de código como:
+
+// Incorrect:
+val text = view.textField?.text.toString() ?: ""
+
+Se esperaría que si el campo no existiera, el valor fuera una cadena vacía, pero en este caso es "null".
+
+// Correct:
+val text = view.textField?.text?.toString() 1  ?: ""  
