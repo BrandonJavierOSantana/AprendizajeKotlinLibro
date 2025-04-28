@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AK_29_al_33" />
+        <option name="gradleJvm" value="openjdk-23" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AK_34_al_38" />
+        <option name="gradleJvm" value="openjdk-23" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AK_Cap10_11_12" />
+        <option name="gradleJvm" value="openjdk-23" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AK_Cap13_14_16" />
+        <option name="gradleJvm" value="openjdk-23" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AK_Cap17_18_19_20" />
+        <option name="gradleJvm" value="openjdk-23" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AK_Cap21_22_23_24" />
+        <option name="gradleJvm" value="openjdk-23" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AK_Cap25_al_28" />
+        <option name="gradleJvm" value="openjdk-23" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Capitulo8" />
+        <option name="gradleJvm" value="openjdk-23" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
